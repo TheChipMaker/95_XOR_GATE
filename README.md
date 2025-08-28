@@ -5,9 +5,10 @@
 - [Requirements](#requirements)
 - [How to Compile and Simulate](#how-to-compile-and-simulate)
 - [License](#license)
- 
+
 ## Overview
 VHDL implementation and testbench for a basic 2-input XOR gate. Includes source code and testbench files for simulation and synthesis practice using ModelSim and VS Code.
+
 This project is **synthesizable** and suitable for **Synopsys tools**, and simulation is done using **ModelSim**.
 ## Main Files
 - `XOR_GATE.vhd`: VHDL code implementing the XOR gate entity and architecture.
